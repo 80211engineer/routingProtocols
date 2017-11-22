@@ -1,4 +1,5 @@
 public class Nodo {
+// THIS IS NODO CLASS
 
     private String data;
     private Nodo siguiente;
