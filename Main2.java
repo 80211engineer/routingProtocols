@@ -1,6 +1,7 @@
 public class Main2 {
-
+	// THIS STATIC VAR
     private static Nodo primero;
+
 
 
 
